@@ -1,3 +1,5 @@
+CREATE DATABASE medical_bills;
+
 CREATE TABLE invoices (
     id BIGSERIAL NOT NULL PRIMARY KEY,
     total_amount DECIMAL,
