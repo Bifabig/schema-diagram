@@ -67,11 +67,11 @@ Clone this repository to your desired folder:
 - Twitter: [NasirMa35888225](https://twitter.com/NasirMa35888225)
 - LinkedIn: [nasirmahd](https://www.linkedin.com/in/nasirmahd/)
 
-👤 **Nasirkhan294**
+👤 **Biftu Girma**
 
-- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
-- Twitter: [@NasirMa35888225](https://twitter.com/NasirMa35888225)
-- LinkedIn: [Nasir Mahmood](https://www.linkedin.com/in/nasirmahd/)
+- GitHub: [@Bifabig](https://github.com/Bifabig)
+- Twitter: [@biftu94](https://twitter.com/biftu94)
+- LinkedIn: [Biftu Girma](https://www.linkedin.com/in/biftu-girma/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
